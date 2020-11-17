@@ -1,0 +1,134 @@
+[
+  {
+    "key" : "AF",
+    "name" : "Adelpha Figueiredo",
+    "latitude" : -23.526420,
+    "longitude" : -46.610668
+  },
+  {
+    "key" : "AT",
+    "name" : "Affonso Taunay",
+    "latitude" : -23.550354,
+    "longitude" : -46.599560
+  },
+  {
+    "key" : "AL",
+    "name" : "Aureliano Leite",
+    "latitude" : -23.595013,
+    "longitude" : -46.547714
+  },
+  {
+    "key" : "CR",
+    "name" : "Cassiano Ricardo",
+    "latitude" : -23.536340,
+    "longitude" : -46.571958
+  },
+  {
+    "key" : "CC",
+    "name" : "Cora Coralina",
+    "latitude" : -23.544563,
+    "longitude" : -46.409880
+  },
+  {
+    "key" : "GF",
+    "name" : "Gilberto Freyre",
+    "latitude" : -23.601066,
+    "longitude" : -46.516755
+  },
+  {
+    "key" : "HC",
+    "name" : "Hans Christian",
+    "latitude" : -23.536136,
+    "longitude" : -46.572626
+  },
+  {
+    "key" : "JA",
+    "name" : "Jamil Almansur Haddad",
+    "latitude" : -23.537596,
+    "longitude" : -46.409631
+  },
+  {
+    "key" : "JP",
+    "name" : "Jose Paulo Paes",
+    "latitude" : -23.525878,
+    "longitude" : -46.548426
+  },
+  {
+    "key" : "JR",
+    "name" : "Jovina Rocha Alvares Pessoa",
+    "latitude" : -23.546487,
+    "longitude" : -46.484674
+  },
+  {
+    "key" : "LF",
+    "name" : "Lenyra Fraccaroli",
+    "latitude" : -23.546896,
+    "longitude" : -46.531908
+  },
+  {
+    "key" : "MS",
+    "name" : "Milton Santos",
+    "latitude" : -23.568625,
+    "longitude" : -46.504192
+  },
+  {
+    "key" : "PSD",
+    "name" : "Paulo Sergio Duarte Milliet",
+    "latitude" : -23.552781,
+    "longitude" : -46.572804
+  },
+  {
+    "key" : "PS",
+    "name" : "Paulo Setubal",
+    "latitude" : -23.571811,
+    "longitude" : -46.540477
+  },
+  {
+    "key" : "PA",
+    "name" : "Prof Arnaldo Magalhaes Giacomo",
+    "latitude" : -23.539958,
+    "longitude" : -46.580558
+  },
+  {
+    "key" : "RM",
+    "name" : "Raimundo de Menezes",
+    "latitude" : -23.499407,
+    "longitude" : -46.440301
+  },
+  {
+    "key" : "RR",
+    "name" : "Ricardo Ramos",
+    "latitude" : -23.581978,
+    "longitude" : -46.583170
+  },
+  {
+    "key" : "RB",
+    "name" : "Rubens Borba",
+    "latitude" : -23.486419,
+    "longitude" : -46.480525
+  },
+  {
+    "key" : "SB",
+    "name" : "Sergio Buarque de Holanda",
+    "latitude" : -23.536944,
+    "longitude" : -46.454548
+  },
+  {
+    "key" : "VC",
+    "name" : "Vicente de Carvalho",
+    "latitude" : -23.550111,
+    "longitude" : -46.440435
+  },
+  {
+    "key" : "VP",
+    "name" : "Vicente Paulo Guimaraes",
+    "latitude" : -23.501948,
+    "longitude" : -46.420403
+  },
+  {
+    "key" : "VM",
+    "name" : "Vinicius de Moraes",
+    "latitude" : -23.553685,
+    "longitude" : -46.435894
+  }
+ ]
