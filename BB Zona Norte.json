@@ -1,0 +1,86 @@
+[
+  {
+    "key" : "AF",
+    "name" : "Adelpha Figueiredo",
+    "latitude" : -23.526350899613117,
+    "longitude" : -46.61065720193428
+  },
+  {
+    "key" : "AS",
+    "name" : "Afonso Schmidt",
+    "latitude" : -23.4811474808138,
+    "longitude" : -46.70114524426386
+  },
+  {
+    "key" : "AA",
+    "name" : "Álvares de Azevedo",
+    "latitude" : -23.50382445251187,
+    "longitude" : -46.5923133307704
+  },
+  {
+    "key" : "BB",
+    "name" : "Brito Broca",
+    "latitude" : -23.48557470459018,
+    "longitude" : -46.74039144426346
+  },
+  {
+    "key" : "EV",
+    "name" : "Érico Veríssimo",
+    "latitude" : -23.442650387879194,
+    "longitude" : -46.71547917748184
+  },
+  {
+    "key" : "JMV",
+    "name" : "José Mauro de Vasconcelos",
+    "latitude" : -23.477135311677028,
+    "longitude" : -46.564749788442114
+  },
+  {
+    "key" : "JC",
+    "name" : "Jayme Cortez",
+    "latitude" : -23.476038662398487,
+    "longitude" : -46.67031165960625
+  },
+  {
+    "key" : "MDP",
+    "name" : "Menotti Del Picchia",
+    "latitude" : -23.496865435687962,
+    "longitude" : -46.673097044263415
+  },
+  {
+    "key" : "NF",
+    "name" : "Narbal Fontes",
+    "latitude" : -23.49683945723692,
+    "longitude" : -46.6273262865922
+  },
+  {
+    "key" : "NS",
+    "name" : "Nuto Sant’anna",
+    "latitude" : -23.498378567388897,
+    "longitude" : -46.61942694426338
+  },
+  {
+    "key" : "PJA",
+    "name" : "Padre José de Anchieta",
+    "latitude" : -23.40722725525847,
+    "longitude" : -46.754877644265115
+  },
+  {
+    "key" : "PSN",
+    "name" : "Pedro da Silva Nava",
+    "latitude" : -23.482430920612448,
+    "longitude" : -46.63246680193492
+  },
+  {
+    "key" : "SO",
+    "name" : "Sylvia Orthof",
+    "latitude" : -23.48169280401265,
+    "longitude" : -46.60419211542803
+  },
+  {
+    "key" : "TCA",
+    "name" : "Thales Castanho de Andrade",
+    "latitude" : -23.486259924671106,
+    "longitude" : -46.701018930770715
+  }
+ ]
