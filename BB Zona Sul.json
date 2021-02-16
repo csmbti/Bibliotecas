@@ -1,0 +1,74 @@
+[
+  {
+    "key" : "AA",
+    "name" : "Amadeu Amaral",
+    "latitude" : -23.61291684038277,
+    "longitude" : -46.6173927596039
+  },
+  {
+    "key" : "B",
+    "name" : "Belmonte",
+    "latitude" : -23.650641846118514,
+    "longitude" : -46.70846454426065
+  },
+  {
+    "key" : "CA",
+    "name" : "Castro Alves",
+    "latitude" : -23.608967111317448,
+    "longitude" : -46.75729385870039
+  },
+  {
+    "key" : "CC",
+    "name" : "Chácara do Castelo",
+    "latitude" : -23.58338872268974,
+    "longitude" : -46.623514388440185
+  },
+  {
+    "key" : "HS",
+    "name" : "Helena Silveira",
+    "latitude" : -23.63301146853328,
+    "longitude" : -46.774067615425295
+  },
+  {
+    "key" : "MT",
+    "name" : "Malba Tahan",
+    "latitude" : -23.68832246498008,
+    "longitude" : -46.710183687539526
+  },
+  {
+    "key" : "MR",
+    "name" : "Marcos Rey",
+    "latitude" : -23.617635182859612,
+    "longitude" : -46.75729785960386
+  },
+  {
+    "key" : "PD",
+    "name" : "Paulo Duarte",
+    "latitude" : -23.65125399103884,
+    "longitude" : -46.64487693076755
+  },
+  {
+    "key" : "PPM",
+    "name" : "Prefeito Prestes Maia",
+    "latitude" : -23.644879017935793,
+    "longitude" : -46.70866750338282
+  },
+  {
+    "key" : "RB",
+    "name" : "Raul Bopp",
+    "latitude" : -23.572762482787784,
+    "longitude" : -46.629063086590726
+  },
+  {
+    "key" : "RS",
+    "name" : "Roberto Santos",
+    "latitude" : -23.58770571981342,
+    "longitude" : -46.60238657309742
+  },
+  {
+    "key" : "RS",
+    "name" : "Viriato Correa",
+    "latitude" : -23.593277192620704,
+    "longitude" : -46.638803101933085
+  }
+ ]
