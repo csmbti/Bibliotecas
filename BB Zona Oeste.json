@@ -1,0 +1,38 @@
+[
+  {
+    "key" : "AA",
+    "name" : "Alceu Amoroso Lime",
+    "latitude" : -23.55838058375606,
+    "longitude" : -46.68226425477282
+  },
+  {
+    "key" : "AG",
+    "name" : "Álvaro Guerra",
+    "latitude" : -23.558002442144918,
+    "longitude" : -46.70084453090201
+  },
+  {
+    "key" : "AF",
+    "name" : "Anne Frank",
+    "latitude" : -23.5867708622742,
+    "longitude" : -46.6840313309016
+  },
+  {
+    "key" : "CCC",
+    "name" : "Camila Cerqueira Cesar",
+    "latitude" : -23.575923718138124,
+    "longitude" : -46.738197530901694
+  },
+  {
+    "key" : "CL",
+    "name" : "Clarice Lispector",
+    "latitude" : -23.535351457932016,
+    "longitude" : -46.70123514624651
+  },
+  {
+    "key" : "MS",
+    "name" : "Mário Schenberg",
+    "latitude" : -23.526476162659158,
+    "longitude" : -46.70049370206646
+  }
+ ]
